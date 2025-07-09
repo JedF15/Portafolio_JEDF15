@@ -19,8 +19,15 @@ Bienvenido al portafolio de proyectos de **Juan Estuardo Deyet (JED)**, especial
 - **Excel_Macros**  
   Automatizaciones con VBA y dashboards interactivos en Excel, incluyendo reportes en PDF y validaciones inteligentes.
 
+  ## 📎 Archivos de ejemplo
+
+- 📘 [Ventas con macros en Excel (Centroamérica)](Excel_Macros/Ventas_Centroamerica_Portafolio.xlsm)
+-
+
+
 - **PowerBI_Reportes**  
   Informes analíticos con visualizaciones avanzadas sobre datos reales de exportaciones, comercio y rendimiento académico.
+   🗺️ [Ventas con ubicación geográfica para Power BI](PowerBI_Reportes/Ventas_Centroamerica_Ubicacion.xlsx)
 
 - **CSharp_Proyectos**  
   CRUD, conexión a MySQL, control académico y manejo de modelos en C# para escritorio.
