@@ -21,7 +21,7 @@ Bienvenido al portafolio de proyectos de **Juan Estuardo Deyet (JED)**, especial
 
   ## 📎 Archivos de ejemplo
 
-- 📘 [Ventas con macros en Excel (Centroamérica)](Excel_Macros/Ventas_Centroamerica_Portafolio.xlsm)
+- 📘 [Ventas con macros en Excel (Centroamérica)](Excel_Macros/Ventas_Centroamerica_Portafolio_.xlsm)
 -
 
 
@@ -57,7 +57,7 @@ Bienvenido al portafolio de proyectos de **Juan Estuardo Deyet (JED)**, especial
 - Automatización de reportes y generación de PDFs
 - Excel avanzado: tablas dinámicas, segmentaciones, funciones matriciales
 
-📅 Actualizado por IA el 08/07/2025 17:37
+📅 Actualizado por JED el 08/07/2025 17:37
 
 ---
 
